@@ -25,7 +25,7 @@ The Fashion-MNIST dataset can be downloaded from  https://github.com/zalandorese
 
 ## 1.3 Building dataset
 
-Generate image pairs by following the example given in generate_image_pairs.py.
+Generate image pairs by following the example given in ./Fashion-OSCD/generate_image_pairs.py.
 
 ## 1.4 References
 [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)
@@ -45,7 +45,7 @@ The building process is shown below.
 
 Step 1. Download Pascal VOC 2007 and 2012 datasets from: http://host.robots.ox.ac.uk/pascal/VOC/
 
-Step 2. Build this dataset by following the example given in generate_image_pairs.py.
+Step 2. Build this dataset by following the example given in ./Pascal-OSCD/generate_image_pairs.py.
 
 ## 2.3 References
 
