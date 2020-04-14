@@ -4,7 +4,7 @@ boxes and paired with query images that contain the same class objects randomly.
 
 The building process is shown below.
 
-![PascalOSCDpipeline](F:\ComparsionNet\NC-修改\最终版相关材料\数据集公开\Pascal-OSCD\PascalOSCDpipeline.png)
+![PascalOSCDpipeline](./PascalOSCDpipeline.png)
 
 ## Building dataset
 
