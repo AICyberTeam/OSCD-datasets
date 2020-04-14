@@ -5,7 +5,7 @@ We make each image contain as much as 3 objects with multiple scales and aspect 
 
 The building process is shown below.
 
-![fashionOSCDpipeline](F:\ComparsionNet\NC-修改\最终版相关材料\数据集公开\Fashion-OSCD\fashionOSCDpipeline.png) 
+![fashionOSCDpipeline](./fashionOSCDpipeline.png) 
 
 ## Download
 
