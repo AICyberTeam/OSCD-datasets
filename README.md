@@ -50,3 +50,29 @@ Step 2. Build this dataset by following the example given in ./Pascal-OSCD/gener
 ## 2.3 References
 
 [Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
+
+## Citation
+If you find **Fashion-OSCD** and **Pascal-OSCD** useful in your research, please consider citing:
+
+```
+@article{FU2020,
+title = "OSCD: A one-shot conditional object detection framework",
+journal = "Neurocomputing",
+year = "2020",
+issn = "0925-2312",
+doi = "https://doi.org/10.1016/j.neucom.2020.04.092",
+url = "http://www.sciencedirect.com/science/article/pii/S0925231220306779",
+author = "Kun Fu and Tengfei Zhang and Yue Zhang and Xian Sun",
+keywords = "One-shot, Object detection",
+}
+
+@ARTICLE{8735792,  
+author={K. {Fu} and T. {Zhang} and Y. {Zhang} and M. {Yan} and Z. {Chang} and Z. {Zhang} and X. {Sun}},  
+journal={IEEE Access},   
+title={Meta-SSD: Towards Fast Adaptation for Few-Shot Object Detection With Meta-Learning},   
+year={2019},  
+volume={7},  
+number={},  
+pages={77597-77606},
+}
+```
