@@ -19,7 +19,7 @@ This dataset can be downloaded from:
 
 OneDrive: https://1drv.ms/u/s!AgYiu2IzGlVAiVYmyr0fN4PSUeYX?e=jKZgdm
 
-BaidiWangpan: https://pan.baidu.com/s/1Q1l9o4UFRYlAHvN-c-h-7Q  password: 0k3t 
+BaiduNetdisk: https://pan.baidu.com/s/1Q1l9o4UFRYlAHvN-c-h-7Q  password: 0k3t 
 
 The Fashion-MNIST dataset can be downloaded from  https://github.com/zalandoresearch/fashion-mnist#get-the-data
 
